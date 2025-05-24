@@ -1,0 +1,21 @@
+default branch is master branch
+empty folder always egnore
+
+git init --initial-branch main
+
+git status -v (for mare detatils )
+git status -s (for less details )
+
+to remove from stash area
+
+git rm --cached file.txt file2.txt
+
+all about commmit 
+	commit object 
+		usser email 
+		time
+		commit msg
+		snapshot of file in stagging area 
+when ever commit encrypt with sha-256
+
+
