@@ -1,0 +1,31 @@
+Here are the Chapter Details for the Git Master Class - Tech with Jatin
+
+0:00 - Introduction
+1:03 - Verify Git Installation
+3:01 - Setting up Personal Info on Git (PREREQUISITE)
+5:54 - Git Basic Commands | Study with Me
+33:09 - Understanding git init
+43:02 - Understanding git status
+56:59 - Deep Dive into git commit
+1:45:00 - Understanding git log (PREREQUISITE)
+2:00:01 - Git Basic Commands For Practice! (ASSIGNMENT)
+2:00:33 - Undo Commits with git reset
+2:11:36 - Undoing Commits with git revert
+2:23:04 - Understanding Branches in Git
+2:50:12 - Understanding Revisiting Branch
+3:24:01 - Understanding Git Merging
+3:37:51 - Git Merging Scenario 2 Important
+3:51:45 - Git Merge Scenario Implementation
+4:02:34 - Understanding How to Resolve Merge Conflict in Branches
+4:17:17 - Picking Just Particular Commits with git cherry-pick
+4:19:01 - Git Revision Part 1 - Study with Me
+5:12:28 - Understanding Remote Repository
+5:19:40 - Creating Account in GitLab
+5:20:01 - Understanding git remote add and git push
+5:45:55 - Revisiting git log for a moment!
+5:49:51 - Understanding git clone
+5:59:04 - Understanding git pull and git fetch
+6:13:31 - Understanding git fetch
+6:27:21 - Understanding git pull
+6:33:36 - Store changes temporarily using git stash
+6:40:15 - Ignore Files using .gitignore

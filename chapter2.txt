@@ -1,0 +1,15 @@
+basic command 
+
+
+mkdir git_module
+cd git_module
+mkdir my_project
+
+cat "sample content " > sample_file.txt
+
+git inti 
+git status 
+
+git add filename or .
+
+

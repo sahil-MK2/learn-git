@@ -1,0 +1,6 @@
+setting up user info
+
+git config --global user.name "sahil bhoyar"
+git config --global user.email "bhoyarsahil123@gmail.com"
+
+
