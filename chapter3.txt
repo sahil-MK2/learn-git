@@ -18,4 +18,11 @@ all about commmit
 		snapshot of file in stagging area 
 when ever commit encrypt with sha-256
 
+git commit -am "commit msg" for already added file
+
+git commit --amed (to add in last commit) --no-edit
+
+git commit -s -m "signoff msg "(for signoff at end of task)
+
+
 
