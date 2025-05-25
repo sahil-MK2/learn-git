@@ -1,0 +1,5 @@
+remore origin add
+
+git remote add origin url
+git push origin branch
+
