@@ -24,5 +24,5 @@ git commit --amed (to add in last commit) --no-edit
 
 git commit -s -m "signoff msg "(for signoff at end of task)
 
-
+git commit --allow empty -m "commit msg"
 

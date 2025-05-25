@@ -1,0 +1,8 @@
+branches 
+
+git branch (to show all branches)
+git branch branch_name (to create new branche)
+git checkout branch_name (to change branch name)
+git branch -d branch_name (to delete branch)
+
+

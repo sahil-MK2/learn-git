@@ -1,0 +1,9 @@
+all about logs
+
+git log 
+git log --pretty=short
+git log -p (to see what file changes with commit)
+git log --since="yesterday" --until="2025-05-30"
+git log --author="username"
+git log --grep="msg"
+
