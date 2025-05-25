@@ -1,1 +1,2 @@
 this is line added by feature 1 developer
+dev2 added some line in empty file 
