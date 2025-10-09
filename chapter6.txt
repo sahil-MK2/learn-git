@@ -4,3 +4,4 @@ git remote add origin url
 git remote -v
 git push origin branch
 
+Invoke-WebRequest -Uri https://packages.wazuh.com/4.x/windows/wazuh-agent-4.13.1-1.msi -OutFile $env:tmp\wazuh-agent; msiexec.exe /i $env:tmp\wazuh-agent /q WAZUH_MANAGER='192.168.150.190' WAZUH_AGENT_GROUP='default' WAZUH_AGENT_NAME='Window1' 
